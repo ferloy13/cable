@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Registro">
+    <item Text="Nuevo" />
+    <item Text="Modificar" />
+    <item Text="Eliminar" />
+  </group>
+  <group Text="Pagos">
+    <item Text="Caja" />
+    <item Text="compras" />
+    <item Text="ventas" />
+    <item Text="Caja chica" />
+  </group>
+  <group Text="mant y Rep">
+    <item Text="nuevo ticket" />
+  </group>
+  <group Text="Configuracion">
+    <item Text="Precios" />
+    <item Text="Precios Mora" />
+    <item Text="crear sector" />
+
+  </group>
+
+
+</menu>
